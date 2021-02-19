@@ -1,12 +1,11 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
+
+const url = "https://course-api.com/react-tours-project";
 
 function App() {
   return (
-    <div className="App">
-      <h1>hello world</h1>
-      <h2>hello</h2>
-      <h3>world</h3>
+    <div>
+      <h3>cos tam</h3>
     </div>
   );
 }
